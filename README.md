@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to infiniFoam!
 
-You can use the [editor on GitHub](https://github.com/alishayegh/infiniFoam/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Ali, a sad man and an OpenFOAM fan. At present, this website is a place for me to publish the last version of "Block-coupled Finite Volume algorithms: A solids4Foam tutorial".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+%### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
