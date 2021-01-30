@@ -1,6 +1,6 @@
 ## Welcome to infiniFoam!
 
-I'm Ali, a sad man and an OpenFOAM fan. At present, this website is a place for me to publish the last version of "Block-coupled Finite Volume algorithms: A solids4Foam tutorial".
+I'm Ali, a sad man and an OpenFOAM fan. At present, this website is where I publish the last version of **"Block-coupled Finite Volume algorithms: A solids4Foam tutorial"**.
 
 <!-- %### Markdown
 
