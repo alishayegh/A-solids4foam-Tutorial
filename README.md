@@ -1,6 +1,9 @@
 ## Welcome to infiniFoam!
 
-I'm Ali, a sad man and an OpenFOAM fan. At present, this website is where I publish the last version of **"[Block-coupled Finite Volume algorithms: A solids4Foam tutorial](https://github.com/alishayegh/infiniFoam/blob/4b0c407fccf4d805dc1b8b93e401aa8f711cfac5/Block-coupled-FV-algoritms-a-solids4foam-tutorial.pdf)"**.
+I'm Ali, a sad man and an OpenFOAM fan! At present, this website is where I publish the last version of **"[Block-coupled Finite Volume algorithms: A solids4Foam tutorial](https://github.com/alishayegh/infiniFoam/blob/4b0c407fccf4d805dc1b8b93e401aa8f711cfac5/Block-coupled-FV-algoritms-a-solids4foam-tutorial.pdf)"**. Obviously, as a github user, will update the repository with updated accompanying files needed to follow the tutorial seamlessly; so keep following in order not to miss the updates!
+
+Best!
+Ali
 
 <!-- %### Markdown
 
